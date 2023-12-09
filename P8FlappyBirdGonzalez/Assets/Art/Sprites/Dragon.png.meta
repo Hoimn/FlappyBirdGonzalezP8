@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bbe1fca0be6c6f340ab1321cac407373
+guid: c6295cd910a03d648b869c7d4cb36b52
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -175,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixilart-sprite (1)_0
+      name: Dragon_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 100
-        height: 100
+        x: 3
+        y: 24
+        width: 83
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9eb211d2143bc1419697ef565f0901f
-      internalID: 406309341
+      spriteID: 98ebac19692b91549b1a980b01dd225f
+      internalID: 133457590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite (1)_1
+      name: Dragon_1
       rect:
         serializedVersion: 2
         x: 100
-        y: 0
-        width: 100
-        height: 100
+        y: 31
+        width: 86
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f095c6f38edccf40a8974f47f080183
-      internalID: -1577549695
+      spriteID: df972112c1513df439ca3930d43d2214
+      internalID: -740731353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite (1)_2
+      name: Dragon_2
       rect:
         serializedVersion: 2
-        x: 200
-        y: 0
-        width: 100
-        height: 100
+        x: 206
+        y: 31
+        width: 80
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,8 +231,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 453629aa92b92684da714f827865dc89
-      internalID: 468018387
+      spriteID: 77d889f8486767e46a70784070e5e75e
+      internalID: -1763198426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d930908a897d94ea08b05157ddbee3
+      internalID: 1222706874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f00a4090a8924bbc5bd7b13675ce5
+      internalID: 1874319637
       vertices: []
       indices: 
       edges: []
@@ -248,9 +290,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pixilart-sprite (1)_0: 406309341
-      pixilart-sprite (1)_1: -1577549695
-      pixilart-sprite (1)_2: 468018387
+      Dragon_0: 133457590
+      Dragon_1: -740731353
+      Dragon_2: -1763198426
+      Dragon_3: 1222706874
+      Dragon_4: 1874319637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
