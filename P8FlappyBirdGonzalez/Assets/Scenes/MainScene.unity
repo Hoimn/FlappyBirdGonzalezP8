@@ -364,7 +364,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PillarPoolSize: 5
   PillarPrefab: {fileID: 8030519845248963914, guid: 3caa5cc214c3d064a8530387db4dc2fe, type: 3}
-  spawnRate: 2
+  spawnRate: 3
   columnMin: -4
   columnMax: 5
 --- !u!82 &796003698
